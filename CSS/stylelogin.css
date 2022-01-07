@@ -172,7 +172,8 @@ label {
 }
 
 .sign-btn:hover {
-  background-color: #8371fd;
+  background-color: #50b3a7;
+  height: 50px;
 }
 
 .text {
